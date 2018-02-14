@@ -1,7 +1,9 @@
 # Markdown features test file
 
 This is a test file for
-[Markdown](https://daringfireball.net/projects/markdown/) rendering.
+[Markdown](https://daringfireball.net/projects/markdown/) rendering on
+[GitHub](https://github.com/miccoli/markdown-test) and
+[Bitbucket](https://bitbucket.org/miccoli/markdown-test).
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
