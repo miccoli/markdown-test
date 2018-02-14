@@ -1,7 +1,18 @@
-# test
+# Markdown features test file
 
-Testo con nota^[nota inline]
+This is a test file for
+[Markdown](https://daringfireball.net/projects/markdown/) rendering.
 
-Testo con nota ref[^1]
+## Extensions
 
-[^1]: ecco la nota
+### Footnotes
+
+Test of [Pandoc's footnote
+syntax](https://pandoc.org/MANUAL.html#footnotes).
+
+Footnotes can be defined inline^[I'm an inline footnote, see
+<https://pandoc.org/MANUAL.html#extension-inline_notes>] or with a
+regular reference[^1],
+
+[^1]: I'm a regular footnote, see
+    <https://pandoc.org/MANUAL.html#extension-footnotes>
