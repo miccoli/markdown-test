@@ -27,6 +27,30 @@ regular reference[^1],
 [^1]: I'm a regular footnote, see
     <https://pandoc.org/MANUAL.html#extension-footnotes>
 
+## Code blocks ##
+
+1. fenced and 4 space indent
+
+    ```
+	function test() {
+		console.log("notice the blank line before this function?");
+	}
+	```
+
+1. fenced and 6 space indent
+
+      ```
+      function test() {
+	      console.log("notice the blank line before this function?");
+     }
+     ```
+
+1. 8-space indent
+
+	   function test() {
+		   console.log("notice the blank line before this function?");
+	   }
+
 # Quirks
 
 Literal &lt;i&gt;
