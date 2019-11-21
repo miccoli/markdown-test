@@ -8,11 +8,18 @@ This is a test file for
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
+- [Linking](#linking)
 - [Extensions](#extensions)
     - [Footnotes](#footnotes)
+    - [Code blocks](#code-blocks)
 - [Quirks](#quirks)
 
 <!-- markdown-toc end -->
+
+# Linking
+
+Test of relative links to a [subfolder](subfolder) and a
+[document](subfolder/README.md).
 
 # Extensions #
 
